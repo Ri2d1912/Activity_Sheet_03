@@ -1,0 +1,22 @@
+body{
+    background-color: honeydew;
+    font: 20px Arial, sans-serif;
+    margin: 50px;
+    }
+h1{
+    text-align: center;
+}
+#topics{
+    color: seagreen;
+    font-style: italic;
+}
+div{
+    column-count: 2;
+}
+img{
+    border: 10px outset #047d34;
+}
+#StudName{
+    color: rgb(8, 8, 134);
+    font-family: "Lucida Handwriting",cursive;
+}
